@@ -1,0 +1,7 @@
+keras_bert==0.83.0
+Flask==1.1.2
+Keras==2.2.4
+tensorflow_gpu==1.14.0
+numpy==1.16.4
+scikit_learn==0.24.1
+tensorflow==1.14.0
